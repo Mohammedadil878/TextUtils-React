@@ -36,7 +36,7 @@ export default function About(props) {
                     </h2>
                     <div id="collapseOne" className="accordion-collapse collapse show" data-bs-parent="#accordionExample">
                     <div className="accordion-body" style={myStyle}>
-                        <strong>This is the first item's accordion body.</strong> It is shown by default, until the collapse plugin adds the appropriate classNamees that we use to style each element. These classNamees control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                        <strong>TextUtils</strong> is a versatile web application designed for comprehensive text manipulation and analysis. It offers features like case conversion, allowing users to switch text between uppercase, lowercase, and inverse case formats effortlessly. It also provides space management to remove unnecessary spaces, ensuring clean and readable text. Additional features include quick text copying, concise text summarization, and accurate word and character counts. Users can estimate reading time, aiding in content planning, and preview formatted text before finalizing changes. These functionalities make TextUtils a valuable tool for efficient and effective text processing.
                     </div>
                     </div>
                 </div>
@@ -48,7 +48,7 @@ export default function About(props) {
                     </h2>
                     <div id="collapseTwo" className="accordion-collapse collapse" data-bs-parent="#accordionExample">
                     <div className="accordion-body" style={myStyle}>
-                        <strong>This is the second item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classNamees that we use to style each element. These classNamees control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                        The <strong>"Free to Use"</strong> feature of the TextUtils website ensures that all its tools and functionalities are accessible without any cost. Users can process their text efficiently, whether it's case conversion, removing extra spaces, word and character counting, or estimating reading time, without requiring subscription or payments. This accessibility makes TextUtils an ideal platform for anyone needing quick and reliable text analysis or formatting, regardless of their budget.
                     </div>
                     </div>
                 </div>
@@ -60,7 +60,7 @@ export default function About(props) {
                     </h2>
                     <div id="collapseThree" className="accordion-collapse collapse" data-bs-parent="#accordionExample">
                     <div className="accordion-body" style={myStyle}>
-                        <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classNamees that we use to style each element. These classNamees control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                        The <strong>"Browser Compatible"</strong> features of the TextUtils website ensures that it works seamlessly across all modern web browser. Whether you use Chrome, Firefox, Safari, or Edge, TextUtils provides a smooth and consistent experience without requiring additional installations or plugins. This compatibility makes it convenient for users to access and utilize its tools on any device, including desktops. laptops, tablets, or smartphones, ensuring flexibility and ease of use.
                     </div>
                     </div>
                 </div>
